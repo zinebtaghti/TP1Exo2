@@ -45,4 +45,7 @@ L'interface inclut les éléments suivants :
 3. Appuyez sur le bouton *Calcul* pour obtenir le montant des impôts locaux.
 4. Le montant de base, l'impôt supplémentaire et l'impôt total s'afficheront en bas de l'écran.
 ## Video demonstratif
-https://github.com/user-attachments/assets/c5b3fe87-a66f-485b-a7b5-5bcbf1094143
+
+https://github.com/user-attachments/assets/06f6f5c0-1ed1-418d-8505-21e9e3a08f6a
+
+
